@@ -1,0 +1,12 @@
+name: RD2WGS84
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - matplotlib
+  - geopandas
+  - folium
+  - jupyter
+  - notebook
+  - descartes
+prefix: /home/rene/miniconda3/envs/RD2WGS84
